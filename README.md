@@ -7,3 +7,10 @@ There are several bad coding practices scattered throughout the app and you need
 
 You may find issues with the code that I have not intended (please point them out :))
 
+
+Instructions:
+
+  1. Clone the repo
+  2. Run code with:
+    ``` python main.py ```
+   
